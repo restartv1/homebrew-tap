@@ -3,8 +3,8 @@
 #   brew install restartv1/tap/defaultify
 # scripts/publish.sh fills in version and sha256 and pushes it to the tap for each release.
 cask "defaultify" do
-  version "1.0.0"
-  sha256 "04ca675f273bf4cfcb2268c540c01265dc39d3215f3ded1f998a25482a3a2dfb"
+  version "1.1.0"
+  sha256 "dd1d6957be581e42623231ab5e8d03acc601e65e73845570fa6f4618f8dbcf6e"
 
   url "https://defaultify.app/downloads/mac/Defaultify-#{version}.dmg"
   name "Defaultify"
